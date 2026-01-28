@@ -23,7 +23,7 @@ The ALII system is divided into four main functional blocks:
    - Preserves slow ambient light variations
 
 <p align="center">
-  <img src="figures//Filter.png" width="600">
+  <img src="figures//Filter.png" width="300">
 </p>
 
 <p align="center">
