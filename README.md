@@ -13,6 +13,7 @@ The **Advanced Light Intensity Indicator (ALII)** is a digital hardware design p
 The system measures ambient light intensity using an LDR, removes power-line noise through analog filtering, stabilizes readings against transient fluctuations, and computes both real-time and time-averaged light intensity values.  
 
 A strict design constraint was imposed: **no microcontrollers, programmable ICs, or task-specific ICs** were allowed. The complete system was implemented using **analog components, logic gates, flip-flops, counters, and timers**.
+
 ## System Architecture
 
 The ALII system is divided into four main functional blocks:
